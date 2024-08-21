@@ -16,6 +16,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com uma paixão crescent
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMartins-0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) </br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMartins-0&show_icons=true)
+
+---
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/guilherme-martins0" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme_02s?igsh=MTZrdG03cGFyOTB1Yw==" alt="Instagram"/></a>
+</p>
 <!--
 **GuilhermeMartins-0/GuilhermeMartins-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
